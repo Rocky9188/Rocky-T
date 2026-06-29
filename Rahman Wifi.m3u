@@ -1,0 +1,61 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://172.16.60.2/assets/images/Tsports.png" group-title="Sports",T Sports
+http://10.200.13.5:8080/hls/channel_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://172.16.60.2/assets/images/GTV.png" group-title="Sports",Gazi TV
+http://172.16.60.2:8088/106/tracks-v1a1/mono.m3u8?token=a407dba16b7d1f770967b6e000ae47b58afeb029-dfe58ee21508ff5cdbd60a3f86578001-1782056204-1782052604
+
+#EXTINF:-1 tvg-logo="http://172.16.60.2/assets/images/PTV.JPG" group-title="Sports",PTV Sports
+http://172.16.60.2:8088/128/tracks-v1a1/mono.m3u8?token=e636150e73aec49d2c41ffa655547addbe2fedde-dcf6956c8933715e7eeee87d6445fefb-1782056503-1782052903
+
+#EXTINF:-1 tvg-logo="http://172.16.60.2/assets/images/Zee-Bangla.png" group-title="Entertainment",Zee Bangla
+http://172.16.60.2:8088/301/tracks-v1a1/mono.m3u8?token=2be9d789670b4f7427cfc8e3127226bdef0f4889-a679e2bd971b6def773a094a936f96a5-1782056546-1782052946
+
+#EXTINF:-1 tvg-logo="http://172.16.60.2/assets/images/Star-Jalsha.png" group-title="Entertainment",Star Jalsha
+http://172.16.60.2:8088/302/tracks-v1a1/mono.m3u8?token=4d5e80fbe3746aa615fc3ef1d353b540c25fb498-8c280ec956d7c1520cf27dba5b2d7d4c-1782056587-1782052987
+
+#EXTINF:-1 tvg-logo="http://172.16.60.2/assets/images/Jalsha-Movies.png" group-title="Movies",Jalsha Movies
+http://172.16.60.2:8088/302/tracks-v1a1/mono.m3u8?token=4d5e80fbe3746aa615fc3ef1d353b540c25fb498-8c280ec956d7c1520cf27dba5b2d7d4c-1782056587-1782052987
+
+#EXTINF:-1 tvg-logo="http://172.16.60.2/assets/images/Colors-Hindi.png" group-title="Entertainment",Colors Bangla
+http://172.16.60.2:8088/304/tracks-v1a1/mono.m3u8?token=7b145dfd11d4c42e4060e8ccd2a24f1241f25eb9-24c33ef483ba836a2f89dd3a5307eabf-1782056689-1782053089
+
+#EXTINF:-1 tvg-logo="http://172.16.60.2/assets/images/Jamunatv.png" group-title="News",Jamuna TV
+http://172.16.60.2:8088/209/index.m3u8?token=72a84a2693fd10ef578c7a2517ec6dbe2b18320d-2a3949c4626cba76785a91032f494e9a-1782056804-1782053204
+
+#EXTINF:-1 tvg-logo="http://172.16.60.2/assets/images/Masranga.png" group-title="Entertainment",Masranga TV
+http://172.16.60.2:8088/206/tracks-v1a1/mono.m3u8?token=c9a7c4ddb045079c34e93407823687e0a18951cf-78304f8f7bf88c94eb08f3d824302cc2-1782056860-1782053260
+
+#EXTINF:-1 tvg-logo="http://172.16.60.2/assets/images/ChannelI.png" group-title="Entertainment",Channel i
+http://172.16.60.2:8088/207/tracks-v1a1/mono.m3u8?token=48d3b288f9122c670756291a41b346b94ed915ea-a6c85edba51081973a44429c8f0c1a3f-1782056903-1782053303
+
+#EXTINF:-1 tvg-logo="http://172.16.60.2/assets/images/SomoyTV1689411430.png" group-title="News",Somoy TV
+http://172.16.60.2:8088/205/tracks-v1a1/mono.m3u8?token=f4e3120fb28a133e5f356f79135061bd1a320526-bdae6a89368d0a50ec57133b95506422-1782056945-1782053345
+
+#EXTINF:-1 tvg-logo="http://172.16.60.2/assets/images/Star-plus.png" group-title="Entertainment",Star Plus
+http://172.16.60.2:8088/401/tracks-v1a1/mono.m3u8?token=14cde7d693616d1aea2691445cc326b1617da963-0cdb6d0c332ec86072365f2f965e9e73-1782056972-1782053372
+
+#EXTINF:-1 tvg-logo="http://172.16.60.2/assets/images/Star-Gold.png" group-title="Movies",Star Gold
+http://172.16.60.2:8088/402/tracks-v1a1/mono.m3u8?token=454415762e646080af83bcc430046813ef797853-0af561c0ac108c8bfb34007667e03960-1782057050-1782053450
+
+#EXTINF:-1 tvg-logo="http://172.16.60.2/assets/images/Sony%20Entertainment.png" group-title="Entertainment",Sony Entertainment Television
+http://172.16.60.2:8088/403/tracks-v1a1/mono.m3u8?token=85ed6caaa41ef7963e64cbee7adc72bbbdbde3c5-2a9aa0525da2244add109785ca2a8274-1782057070-1782053470
+
+#EXTINF:-1 tvg-logo="http://172.16.60.2/assets/images/Colors-Hindi.png" group-title="Entertainment",Colors HD
+http://172.16.60.2:8088/405/tracks-v1a1/mono.m3u8?token=78817bbfde91ebece89314327cdf7da3b5aad5ee-5ed10102c031db57860e956e2d15cd0f-1782057165-1782053565
+
+#EXTINF:-1 tvg-logo="http://172.16.60.2/assets/images/Zee-Cinema.png" group-title="Movies",Zee Cinema HD
+http://172.16.60.2:8088/406/tracks-v1a1/mono.m3u8?token=52f2cc8956fb95d528c2629d60968210306fe067-7aeaebb5fdf19179e1d58c05ed3eb197-1782057211-1782053611
+
+#EXTINF:-1 tvg-logo="http://172.16.60.2/assets/images/Sony%20Max%20HD1667728133.png" group-title="Movies",Sony Max
+http://172.16.60.2:8088/406/tracks-v1a1/mono.m3u8?token=52f2cc8956fb95d528c2629d60968210306fe067-7aeaebb5fdf19179e1d58c05ed3eb197-1782057211-1782053611
+
+#EXTINF:-1 tvg-logo="http://172.16.60.2/assets/images/Star-Movie.png" group-title="Movies",Star Movies
+http://172.16.60.2:8088/501/tracks-v1a1/mono.m3u8?token=35dd3c25de07df971da5186964eb33092ae30a19-64a758ca85ca9826f6297abb3b6359c9-1782057329-1782053729
+
+#EXTINF:-1 tvg-logo="http://172.16.60.2/assets/images/Discovery.png" group-title="Documentary",Discovery
+http://172.16.60.2:8088/801/tracks-v1a1/mono.m3u8?token=f5f47296a1309d2876d6ea44aa132477d574cfcd-2fd5a3519fc336f24e955068a26cde7b-1782057413-1782053813
+
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangladesh",BTV HD
+http://198.195.239.50:8095/btv/video.m3u8
