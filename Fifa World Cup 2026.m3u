@@ -1,0 +1,59 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="SomoyTV" tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-big-2.8c0bf75.png" group-title="Sports",Somoy TV (720p)
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SomoyTV2" tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-big-2.8c0bf75.png" group-title="Sports",Somoy TV (720p)
+http:\\114.130.57.233:8080\Somoy-TV-3Mb\tracks-v1a1\mono.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1 tvg-id="SomoyTV3
+" tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-big-2.8c0bf75.png" group-title="Sports",Somoy TV (720p)
+https://s1.itcnbd.live/1-somoy-tv/tracks-v1a1/mono.m3u8?nocache=1782578607115
+
+#EXTINF:-1 tvg-id="Unite8Sports2" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="Sports",Unite8 Sports 2 HD
+https://s1.itcnbd.live/united-sports-2/tracks-v1a1/mono.m3u8?nocache=1782578588285
+
+#EXTINF:-1 tvg-id="Unite8Sports1" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg" group-title="Sports",Unite8 Sports 1 HD
+https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312
+
+#EXTINF:-1 tvg-id="BeinSports1" tvg-logo="https://images.seeklogo.com/logo-png/48/2/bein-sports-1-logo-png_seeklogo-481583.png" group-title="Sports",Bein Sports 1 HD
+https:\\1nyaler.streamhostingcdn.top\stream\23\index.m3u8
+
+#EXTINF:-1 tvg-id="PTVSports" tvg-logo="https://img.favpng.com/19/8/25/logo-ptv-sports-television-channel-pakistan-png-favpng-tUGSR3EfZeCiX1ir9GFivpweJ.jpg" group-title="Sports",PTV Sports HD
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BeinSports2" tvg-logo="https://images.seeklogo.com/logo-png/48/2/bein-sports-1-logo-png_seeklogo-481583.png group-title="Sports",Bein Sports 2 HD
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+
+#EXTINF:-1 tvg-id="TSports" tvg-logo="https://tscdn.tsports.com/uploads/settings/logo.png" group-title="Sports",T Sports HD
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="GAZITV" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="BANGLA",GAZI TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Fox Live" tvg-logo="https://icon2.cleanpng.com/lnd/20250116/xb/8b232ed0250a3a57a4345c3e8e37ec.webp" group-title="Sports",Fox live
+https:\\aegis-cloudfront-1.tubi.video\8d9284ec-c451-4e51-a1d4-d16e5c8972af\index.m3u8
+
+#EXTINF:-1 tvg-id="Fifa Live" tvg-logo="https://icon2.cleanpng.com/lnd/20250116/xb/8b232ed0250a3a57a4345c3e8e37ec.webp" group-title="Sports",Fifa live
+http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19071/index.m3u8
+
+#EXTINF:-1 tvg-id="Fifa Live" tvg-logo="https://icon2.cleanpng.com/lnd/20250116/xb/8b232ed0250a3a57a4345c3e8e37ec.webp" group-title="Sports",Fifa live
+https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
+
+
+#EXTINF:-1 tvg-id="Fifa Live" tvg-logo="https://icon2.cleanpng.com/lnd/20250116/xb/8b232ed0250a3a57a4345c3e8e37ec.webp" group-title="Sports",Fifa live
+https:\\nomawnoijl.gpcdn.net\akash\sportslegends\playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fifa Live" tvg-logo="https://icon2.cleanpng.com/lnd/20250116/xb/8b232ed0250a3a57a4345c3e8e37ec.webp" group-title="Sports",Fifa live
+https:\\1nyaler.streamhostingcdn.top\stream\89\index.m3u8
+
+#EXTINF:-1 tvg-id="Toffee live 1" tvg-logo="https://icon2.cleanpng.com/lnd/20250116/xb/8b232ed0250a3a57a4345c3e8e37ec.webp" group-title="Sports",Toffee live
+https://top.mswott.top/toffee/media.m3u8?id=e6119df7944c
+
+#EXTINF:-1 tvg-id="WIn sport" tvg-logo="https://icon2.cleanpng.com/lnd/20250116/xb/8b232ed0250a3a57a4345c3e8e37ec.webp" group-title="Sports",WIn sport
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Fox Live 26 " tvg-logo="https://icon2.cleanpng.com/lnd/20250116/xb/8b232ed0250a3a57a4345c3e8e37ec.webp" group-title="Sports",Fox Live 26 
+https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
+
