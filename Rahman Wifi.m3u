@@ -59,3 +59,6 @@ http://172.16.60.2:8088/801/tracks-v1a1/mono.m3u8?token=f5f47296a1309d2876d6ea44
 
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangladesh",BTV HD
 http://198.195.239.50:8095/btv/video.m3u8
+#EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/zUGrjZ4BuUSiBsg_1BeE/posters/4c8e5c87-d833-4429-989b-15f779a82966.png",BRA VS JAP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782758406~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcGp6Db-BKOjy9fF4Be8RuHRm0KT5wa4d3yi9SF0KVaUfHzWdk9C7zr_hsJUkp6zt5amWwP0GnHF7zzMnEPdHYN
