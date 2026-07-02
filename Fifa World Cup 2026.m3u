@@ -59,6 +59,17 @@ https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 #EXTINF:-1 tvg-id="FifaLive5" tvg-logo="https://icon2.cleanpng.com/lnd/20250116/xb/8b232ed0250a3a57a4345c3e8e37ec.webp" group-title="FIFA",FIFA Live 5
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
+#EXTINF:-1 tvg-id="FifaLive6" tvg-logo="https://icon2.cleanpng.com/lnd/20250116/xb/8b232ed0250a3a57a4345c3e8e37ec.webp" group-title="FIFA",FIFA Live 5
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+
+#EXTINF:-1 tvg-id="FifaLive7" tvg-logo="https://icon2.cleanpng.com/lnd/20250116/xb/8b232ed0250a3a57a4345c3e8e37ec.webp" group-title="FIFA",FIFA Live 
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+
+#EXTINF:-1 tvg-id="FifaLive8" tvg-logo="https://icon2.cleanpng.com/lnd/20250116/xb/8b232ed0250a3a57a4345c3e8e37ec.webp" group-title="FIFA",FIFA Live 
+http://84.17.50.102/fox/index.m3u8
+
+#EXTINF:-1 tvg-id="FifaLive8" tvg-logo="https://icon2.cleanpng.com/lnd/20250116/xb/8b232ed0250a3a57a4345c3e8e37ec.webp" group-title="FIFA",FIFA Live 
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 # ===== TOFFEE =====
 
