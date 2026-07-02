@@ -40,3 +40,19 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/channel_i_576/channel_i_576.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1783148418:KeyName=prod_linear:Signature=2WgGhg3hkX3PTcoSFmxhcSRrebDge6TQx4u_tDUJxDlylcT9yaOu6lfn7zWCiZeJyV7KER9iLw7dwsZwm9McBg
 https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ntv_576/ntv_576.m3u8?bitrate=1000000&channel=ntv_576&gp_id=
+
+#EXTINF:-1 group-title="Sports Channels" tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1783148418:KeyName=prod_linear:Signature=2WgGhg3hkX3PTcoSFmxhcSRrebDge6TQx4u_tDUJxDlylcT9yaOu6lfn7zWCiZeJyV7KER9iLw7dwsZwm9McBg
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/Toffee 1_576/Toffee 1_576.m3u8?bitrate=1000000&channel=Toffee 1_576&gp_id=
+
+#EXTINF:-1 group-title="Sports Channels" tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1783148418:KeyName=prod_linear:Signature=2WgGhg3hkX3PTcoSFmxhcSRrebDge6TQx4u_tDUJxDlylcT9yaOu6lfn7zWCiZeJyV7KER9iLw7dwsZwm9McBg
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/Toffee 2_576/Toffee 2_576.m3u8?bitrate=1000000&channel=Toffee 2_576&gp_id=
+
+#EXTINF:-1 group-title="Sports Channels" tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1783148418:KeyName=prod_linear:Signature=2WgGhg3hkX3PTcoSFmxhcSRrebDge6TQx4u_tDUJxDlylcT9yaOu6lfn7zWCiZeJyV7KER9iLw7dwsZwm9McBg
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/Toffee 3_576/Toffee 3_576.m3u8?bitrate=1000000&channel=Toffee 3_576&gp_id=
+
