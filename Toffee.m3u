@@ -1,52 +1,19 @@
 #EXTM3U
-#PLAYLIST:Toffee Live - 2026-07-02 17:04
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/53aSeDH.png",Sony Aath
+#EXTINF:-1 group-title="Sports Channels" tvg-logo="https://i.imgur.com/53aSeDH.png",Sony Aath
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1783148418:KeyName=prod_linear:Signature=2WgGhg3hkX3PTcoSFmxhcSRrebDge6TQx4u_tDUJxDlylcT9yaOu6lfn7zWCiZeJyV7KER9iLw7dwsZwm9McBg
 https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonyaath_576/sonyaath_576.m3u8?bitrate=1000000&channel=sonyaath_576&gp_id=
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/53aSeDH.png",Sony Yay
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/53aSeDH.png",Star Jalsha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1783148418:KeyName=prod_linear:Signature=2WgGhg3hkX3PTcoSFmxhcSRrebDge6TQx4u_tDUJxDlylcT9yaOu6lfn7zWCiZeJyV7KER9iLw7dwsZwm9McBg
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonyyay_576/sonyyay_576.m3u8?bitrate=1000000&channel=sonyyay_576&gp_id=
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/53aSeDH.png",Independent TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/starjalsha_576/starjalsha_576.m3u8?bitrate=1000000&channel=starjalsha_576&gp_id=
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/53aSeDH.png",Star Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1783148418:KeyName=prod_linear:Signature=2WgGhg3hkX3PTcoSFmxhcSRrebDge6TQx4u_tDUJxDlylcT9yaOu6lfn7zWCiZeJyV7KER9iLw7dwsZwm9McBg
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/independent_tv_576/independent_tv_576.m3u8?bitrate=1000000&channel=independent_tv_576&gp_id=
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/53aSeDH.png",Somoy TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/starplus_576/starplus_576.m3u8?bitrate=1000000&channel=starplus_576&gp_id=
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/53aSeDH.png",Colors
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1783148418:KeyName=prod_linear:Signature=2WgGhg3hkX3PTcoSFmxhcSRrebDge6TQx4u_tDUJxDlylcT9yaOu6lfn7zWCiZeJyV7KER9iLw7dwsZwm9McBg
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/somoy_tv_576/somoy_tv_576.m3u8?bitrate=1000000&channel=somoy_tv_576&gp_id=
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/53aSeDH.png",Jamuna TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/colors_576/colors_576.m3u8?bitrate=1000000&channel=colors_576&gp_id=
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/53aSeDH.png",Zee TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1783148418:KeyName=prod_linear:Signature=2WgGhg3hkX3PTcoSFmxhcSRrebDge6TQx4u_tDUJxDlylcT9yaOu6lfn7zWCiZeJyV7KER9iLw7dwsZwm9McBg
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/jamuna_tv_576/jamuna_tv_576.m3u8?bitrate=1000000&channel=jamuna_tv_576&gp_id=
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/53aSeDH.png",ATN News
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_576/zee_576.m3u8?bitrate=1000000&channel=zee_576&gp_id=
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/53aSeDH.png",SET Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1783148418:KeyName=prod_linear:Signature=2WgGhg3hkX3PTcoSFmxhcSRrebDge6TQx4u_tDUJxDlylcT9yaOu6lfn7zWCiZeJyV7KER9iLw7dwsZwm9McBg
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/atn_news_576/atn_news_576.m3u8?bitrate=1000000&channel=atn_news_576&gp_id=
-
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/53aSeDH.png",Channel i
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1783148418:KeyName=prod_linear:Signature=2WgGhg3hkX3PTcoSFmxhcSRrebDge6TQx4u_tDUJxDlylcT9yaOu6lfn7zWCiZeJyV7KER9iLw7dwsZwm9McBg
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/channel_i_576/channel_i_576.m3u8?bitrate=1000000&channel=channel_i_576&gp_id=
-
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/53aSeDH.png",NTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1783148418:KeyName=prod_linear:Signature=2WgGhg3hkX3PTcoSFmxhcSRrebDge6TQx4u_tDUJxDlylcT9yaOu6lfn7zWCiZeJyV7KER9iLw7dwsZwm9McBg
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ntv_576/ntv_576.m3u8?bitrate=1000000&channel=ntv_576&gp_id=
-
-#EXTINF:-1 group-title="Sports Channels" tvg-logo="https://i.imgur.com/53aSeDH.png",FIFA WC CHANNEL 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1783148418:KeyName=prod_linear:Signature=2WgGhg3hkX3PTcoSFmxhcSRrebDge6TQx4u_tDUJxDlylcT9yaOu6lfn7zWCiZeJyV7KER9iLw7dwsZwm9McBg
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/FIFA WC CHANNEL 1_576/FIFA WC CHANNEL 1_576.m3u8?bitrate=1000000&channel=FIFA WC CHANNEL 1_576&gp_id=
-
-#EXTINF:-1 group-title="Sports Channels" tvg-logo="https://i.imgur.com/53aSeDH.png",FIFA WC CHANNEL 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1783148418:KeyName=prod_linear:Signature=2WgGhg3hkX3PTcoSFmxhcSRrebDge6TQx4u_tDUJxDlylcT9yaOu6lfn7zWCiZeJyV7KER9iLw7dwsZwm9McBg
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/FIFA WC CHANNEL 2_576/FIFA WC CHANNEL 2_576.m3u8?bitrate=1000000&channel=FIFA WC CHANNEL 2_576&gp_id=
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/setmax_576/setmax_576.m3u8?bitrate=1000000&channel=setmax_576&gp_id=
