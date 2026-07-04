@@ -22,7 +22,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 http://84.17.50.102/fox/index.m3u8
 
 #EXTINF:-1 tvg-name="T Sports HD" group-title="FIFA World Cup 2026",T Sports HD
-http:\\198.195.239.50:8095\tsports\tracks-v1a1\mono.m3u8
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="TPV Sport" group-title="FIFA World Cup 2026",TPV Sport
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
@@ -34,53 +34,53 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 http://180.94.28.28:8097/Fifa-2026/index.fmp4.m3u8?token=e6ab1067647770980325ef83942bc5c314edc845-a37f1e574ebf492c7a25f84f36a9ea7b-1781451404-1781447804
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 2026
-https:\\dfr80qz435crc.cloudfront.net\MNOP\Amagi\Caze\Caze_TV_BR\1080p-vtt\index.m3u8
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 2026
-https:\\live.thebosstv.com:30443\dwlive\Somoy-TV\playlist.m3u8
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 2026
-http:\\198.195.239.50:8095\ptv\tracks-v1a1\mono.m3u8
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 2026
-https:\\bein-esp-xumo.amagi.tv\playlistR1080p.m3u8
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 2026
-https:\\bein-esp-xumo.amagi.tv\playlistR1080p.m3u8
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 2026
-https:\\partneta.cdn.mgmlcdn.com\omsport\smil:omsport.stream.smil\chunklist.m3u8
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 2026
-http:\\41.205.93.154\ESPN\index.m3u8
+http://41.205.93.154/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 2026
-https:\\d2396zb8liu8hs.cloudfront.net\v1\master\9d062541f2ff39b5c0f48b743c6411d25f62fc25\DistroTV-MuxIP-SportsFirstTV\409.m3u8
+https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 2026
-https:\\1nyaler.streamhostingcdn.top\stream\89\index.m3u8
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 2026
-https:\\1nyaler.streamhostingcdn.top\stream\23\index.m3u8
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 2026
-https:\\ua.online24.pm\play\1103\350B326FB34F4B8\video.m3u8
+https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 2026
-http:\\114.130.57.233:8080\BTV\video.m3u8?token=SkQuhAXZxgBan1
+http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 2026
-http:\\180.94.28.28:8097\Fifa-2026\index.m3u8
+http://180.94.28.28:8097/Fifa-2026/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 2026
-http:\\rgkkw.live\live\1Aoen7elp5\IgMJ60tmAa\748388.ts
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/748388.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 2026
-http:\\rgkkw.live\live\1Aoen7elp5\IgMJ60tmAa\748388.ts
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/748388.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 2026
-http:\\fastshare1.com\live\25711345\late8airline\745270.ts
+http://fastshare1.com/live/25711345/late8airline/745270.ts
 
 ########################
 # NEWS
@@ -138,7 +138,7 @@ http://180.94.28.28:8097/COLORS-BANGLA/index.fmp4.m3u8?token=1d7dd3d50940b6612e0
 http://180.94.28.28:8097/ZEE-BANGLA/index.fmp4.m3u8?token=1c44f1b056530e109f6eaa2d9c10c25a9cd3d0de-ed11b809880a296eda64e5d95fc95c20-1781451490-1781447890
 
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/ZEE%20BANGLA%20HD.png" group-title="Bangla",ZEE BANGLA HD
-https:\\yupptvcatchupire.yuppcdn.net\preview\zeebangla\2500.m3u8
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 
 #EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Star Jalsha.png" group-title="Bangla",STAR JALSHA
 http://180.94.28.28:8097/STAR-JALSHA/index.fmp4.m3u8?token=5a4c72c9b86df14672b484034d6fba95224f3731-75d7471aa43e255bbaa1b1aec052708c-1781451494-1781447894
@@ -150,7 +150,7 @@ http://180.94.28.28:8097/JALSHA-MOVIES/index.fmp4.m3u8?token=a9518a4ff6d2c513e76
 http://180.94.28.28:8097/ENTER-10-BANGLA/index.fmp4.m3u8?token=d9f705ff3b705d1110e0b017950f74279792ad78-b3f7d8c1d168365347c76ad566324584-1781451499-1781447899
 
 #EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/SONY%20AATH.png" group-title="Bangla",SONY AATH
-https:\\stream.ottplus.bd\live\sony_aath_abr\live\sony_aath_720\chunks.m3u8
+https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 
 
 ########################
@@ -178,22 +178,22 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 http://103.175.73.12:8080/live/270/270_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMG24VvR0x9eCYMwkZ_ClHEz2ZhrWy2MZc8kX-qVS9&s=10" group-title="Movies",Zee Cinema
-https:\\stream.ottplus.bd\live\zee_cinema_hd_abr\live\zee_cinema_hd_720\chunks.m3u8
+https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/SONY%20MAX%20HD.png" group-title="Movie",SONY MAX 1
-https:\\stream.ottplus.bd\live\max_hd_abr\live\max_hd_720\chunks.m3u8
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/SONY%20MAX%20HD.png" group-title="Movies",SONY MAX 1
+https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/SONY%20MAX%20HD.png" group-title="Movie",SONY MAX 2
-https:\\stream.ottplus.bd\live\sony_max_sd_abr\live\sony_max_sd_720\chunks.m3u8
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/SONY%20MAX%20HD.png" group-title="Movies",SONY MAX 2
+https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5W5M_Klyv967yPkstZ1f_4AP12ezOkiunDdBPKddH1Q&s=10" group-title="Movie",SONY PIX
-https:\\stream.ottplus.bd\live\pix_hd_abr\live\sony_pix_hd_720\chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5W5M_Klyv967yPkstZ1f_4AP12ezOkiunDdBPKddH1Q&s=10" group-title="Movies",SONY PIX
+https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZbe7aCKXNv3vtFtjdDqmus1wPZu4HeszZ9avt57KVjg&s=10" group-title="Movie",STAR MOVIE
-https:\\d20xuwbyc4yoag.cloudfront.net\v1\master\9d062541f2ff39b5c0f48b743c6411d25f62fc25\DistroTV-MuxIP-CINDIE\387.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZbe7aCKXNv3vtFtjdDqmus1wPZu4HeszZ9avt57KVjg&s=10" group-title="Movies",STAR MOVIE
+https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGichHyFy8fgCCJgJTP4G8PA2CxsaBQjiV1PUvys5gHA&s=10" group-title="Movie",HIBO MOVIE
-http:\\103.213.31.111\HBOHD\index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGichHyFy8fgCCJgJTP4G8PA2CxsaBQjiV1PUvys5gHA&s=10" group-title="Movies",HIBO MOVIE
+http://103.213.31.111/HBOHD/index.m3u8
 
 
 
@@ -220,13 +220,13 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 # Music 
 ########################
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Zoom_TV.png/revision/latest?cb=20111013233308" group-title="Music",NZoom Music
-https:\\pubads.g.doubleclick.net\ssai\event\JCAm25qkRXiKcK1AJMlvKQ\master.m3u8
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434" group-title="Music",9x music
-https:\\wiselp.wiseplayout.com\9XM\HD1080\HD1080.m3u8
+https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHowzx2ASW8gr7e4DDvK7PhriIaQj491MkUOWOdens0g&s=10" group-title="Music",b4u music
-https:\\cdn-2.pishow.tv\live\415\master.m3u8
+https://cdn-2.pishow.tv/live/415/master.m3u8
 
 
 
