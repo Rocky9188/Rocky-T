@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 1 2026
 https:\\cdn-tt.pages.dev\ch1.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 1 2026
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1783442783-0-0-72eb2c9b9fcb3298ae386b79e5c8b996
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 2 2026
 http://180.94.28.28:8097/Fifa-2026/index.fmp4.m3u8?token=e6ab1067647770980325ef83942bc5c314edc845-a37f1e574ebf492c7a25f84f36a9ea7b-1781451404-1781447804
 
