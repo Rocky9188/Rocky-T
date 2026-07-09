@@ -1,51 +1,34 @@
 #EXTM3U
 
-# ===== FIFA WORLD CUP 2026 =====
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",BEIN MAX 1 (BA) SD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2085178&extension=ts&play_token=3gjaCKsP6T
 
-#EXTINF:-1 tvg-id="SomoyTV" tvg-name="Somoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Somoy_TV_logo.png" group-title="World Cup",Somoy TV
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",BA | ARENA SPORT 1 VIP RAW
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2077057&extension=ts&play_token=4DkiD3pHJZ
 
-#EXTINF:-1 tvg-id="ChinaSports" tvg-name="China Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Flag_of_China.svg" group-title="World Cup",China Sports
-https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",BA | ARENA SPORT 2 VIP RAW
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2077056&extension=ts&play_token=jsDMkff2IK
 
-#EXTINF:-1 tvg-id="TSportsHD" tvg-name="T Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/T_Sports_logo.png" group-title="World Cup",T Sports HD
-https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",BA | ARENA SPORT PREMIUM 1 VIP RAW
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2077060&extension=ts&play_token=xkHp6qCEl6
 
-#EXTINF:-1 tvg-id="FUSSBALLTV" tvg-name="FUSSBALL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Football_%28soccer_ball%29.svg" group-title="World Cup",FUSSBALL TV
-https://cp11.adabmedia.com/hls2/rasf1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",BG | BNT 3 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2077050&extension=ts&play_token=6YLwTgbicS
 
-#EXTINF:-1 tvg-id="beINSports" tvg-name="beIN Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_Sports_logo.svg" group-title="World Cup",beIN Sports
-https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",CA | TSN 2 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2077048&extension=ts&play_token=fYi0AftFj3
 
-#EXTINF:-1 tvg-id="ColaTV" tvg-name="COLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Football_%28soccer_ball%29.svg" group-title="World Cup",COLA TV
-https://live05.meung.app/live/08552895.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",PT | SPORT TV 1 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2077015&extension=ts&play_token=3RstXUqZCC
 
-#EXTINF:-1 tvg-id="FOXSports" tvg-name="FOX Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/FOX_Sports_logo.svg" group-title="World Cup",FOX Sports
-https://andro.evrenesoglu57.click/checklist/androstreamliveexn1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",US | FOX SPORTS 1 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2077001&extension=ts&play_token=54Dd7PzkUG
 
-#EXTINF:-1 tvg-id="SportsLive" tvg-name="Sports Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Football_%28soccer_ball%29.svg" group-title="World Cup",Sports Live
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",WORLD CUP 2026 REPLAY 2 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2085220&extension=ts&play_token=aQ9R2D47OD
 
-#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="World Cup",Telemundo Deportes
-https://tda-nnaa-drct-pa6dy.fast.nbcuni.com/live/master_2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",WORLD CUP 2026
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2085218&extension=ts&play_token=CKuGRn65B1
 
-#EXTINF:-1 tvg-id="SPSD" tvg-name="SP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Football_%28soccer_ball%29.svg" group-title="World Cup",SP SD
-https://rykvnfrpqqxmllitoewi.supabase.co/functions/v1/dynamic-worker?url=Q09k4OukERocGAooV9SZ9Oak4MYmdsrJdsHJokrJdkABFhNcE0zKLw&headers=3OvT47zfFUIJq1aKE0_Cz1akI_a84U_K4U1CEAg3osynd_anIGo3qMBh4RI3r9qvzjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
-
-#EXTINF:-1 tvg-id="SPHD" tvg-name="SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Football_%28soccer_ball%29.svg" group-title="World Cup",SP HD
-https://pulltx.bldoll.com/live/sd-6MvYMRTH6zoT7oKg9C.m3u8?txSecret=4285bc57732b25f48505ec85a2cee94d&txTime=6A516D7E
-
-#EXTINF:-1 tvg-id="FAST1" tvg-name="FAST 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Football_%28soccer_ball%29.svg" group-title="World Cup",FAST 1
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=f2f5b412b3c0d19522d891f3aca368e7&txTime=6a4c9363
-
-#EXTINF:-1 tvg-id="FAST2" tvg-name="FAST 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Football_%28soccer_ball%29.svg" group-title="World Cup",FAST 2
-https://pul-tenm.gkykp.com/live/hd-en-1-4459805.m3u8?txSecret=d22e857f2117b6a5f6d16d30f28fef61&txTime=6A4D9198
-
-#EXTINF:-1 tvg-id="ArabicSports" tvg-name="Arabic Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Football_%28soccer_ball%29.svg" group-title="World Cup",Arabic Sports
-https://rykvnfrpqqxmllitoewi.supabase.co/functions/v1/dynamic-worker?url=Q09k4OuhEGX-L5oLrKSoV96zFRoTLpNuoOWhojWRopWkQVbmFk6nI0zf&headers=3OvT47zfFUIJq1aKE0_Cz1akI_a84U_K4U1CEAg3osynd_anIGo3qMBh4RI3r9qvzjasEhukI51JH7I8qjuRIREmFk6nI0zfysfjEU1hqGq_9jv2
-
-#EXTINF:-1 tvg-id="Sports3" tvg-name="Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Football_%28soccer_ball%29.svg" group-title="World Cup",Sports 3
-https://stream.sports3.win/iptv/live/signal-4459802-9398.m3u8
-
-#EXTINF:-1 tvg-id="SP3" tvg-name="SP 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Football_%28soccer_ball%29.svg" group-title="World Cup",SP 3
-https://live.vivo200.com/live/sd-1-4459802.m3u8?txSecret=bfdce7928312a086602317468f35740a&txTime=6A4ABBE7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",TSN-01
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2085215&extension=ts&play_token=S3PnUYJJw0
