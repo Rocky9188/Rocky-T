@@ -23,6 +23,40 @@ https://cdn-tt.pages.dev/ch5.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 6 2026
 https://cdn-tt.pages.dev/ch6.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",BEIN MAX 1 (BA) SD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2085178&extension=ts&play_token=3gjaCKsP6T
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",BA | ARENA SPORT 1 VIP RAW
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2077057&extension=ts&play_token=4DkiD3pHJZ
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",BA | ARENA SPORT 2 VIP RAW
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2077056&extension=ts&play_token=jsDMkff2IK
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",BA | ARENA SPORT PREMIUM 1 VIP RAW
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2077060&extension=ts&play_token=xkHp6qCEl6
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",BG | BNT 3 FHD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2077050&extension=ts&play_token=6YLwTgbicS
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",CA | TSN 2 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2077048&extension=ts&play_token=fYi0AftFj3
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",PT | SPORT TV 1 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2077015&extension=ts&play_token=3RstXUqZCC
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",US | FOX SPORTS 1 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2077001&extension=ts&play_token=54Dd7PzkUG
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",WORLD CUP 2026 REPLAY 2 HD
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2085220&extension=ts&play_token=aQ9R2D47OD
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",WORLD CUP 2026
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2085218&extension=ts&play_token=CKuGRn65B1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",TSN-01
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2085215&extension=ts&play_token=S3PnUYJJw0
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 7 2026
 https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1783442783-0-0-72eb2c9b9fcb3298ae386b79e5c8b996
 
