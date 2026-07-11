@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="ChatGPT Custom XMLTV">
+<tv generator-info-name="Custom">
   <channel id="toffee.dramas">
     <display-name>Toffee Dramas</display-name>
     <icon src="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png"/>
@@ -112,7 +112,7 @@
     <display-name>Sony Ten Cricket</display-name>
     <icon src="https://assets-prod.services.toffeelive.com/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp"/>
   </channel>
-  <channel id="cartoon.network.hd.plus">
+  <channel id="cartoon.network.hd">
     <display-name>Cartoon Network HD +</display-name>
     <icon src="https://assets-prod.services.toffeelive.com/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp"/>
   </channel>
@@ -256,12 +256,12 @@
     <display-name>Investigation Discovery HD</display-name>
     <icon src="https://assets-prod.services.toffeelive.com/ay7uX5UBv9knK3AHs6TI/posters/deb3c186-b2e1-4a91-aafb-d86f9128b851.png"/>
   </channel>
-  <channel id="andtv.hd">
-    <display-name>&TV HD</display-name>
+  <channel id="tv.hd">
+    <display-name>&amp;TV HD</display-name>
     <icon src="https://assets-prod.services.toffeelive.com/5cwRnZUBtpl-Sbt7wWrN/posters/5779ade3-e9ba-4107-b3da-bae6f891500a.png"/>
   </channel>
-  <channel id="and.pictures.hd">
-    <display-name>& Pictures HD</display-name>
+  <channel id="pictures.hd">
+    <display-name>&amp; Pictures HD</display-name>
     <icon src="https://assets-prod.services.toffeelive.com/QMwWnZUBtpl-Sbt7S2sx/posters/f2e6acfd-0031-4ca4-b954-c014a0c99058.png"/>
   </channel>
 </tv>
