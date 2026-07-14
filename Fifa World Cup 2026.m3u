@@ -2,26 +2,11 @@
 ########################
 # FIFA WORLD CUP 2026
 ########################
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 1 2026
-https:\\cdn-tt.pages.dev\ch1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",T soprt
+https://tv.hrdvy.dpdns.org/stream/hls/ch01.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 1 2026
-https://cdn-tt.pages.dev/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 2 2026
-https://cdn-tt.pages.dev/ch2.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 3 2026
-https://cdn-tt.pages.dev/ch3.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 4 2026
-https://cdn-tt.pages.dev/ch4.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 5 2026
-https://cdn-tt.pages.dev/ch5.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",FIFA 6 2026
-https://cdn-tt.pages.dev/ch6.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",cctv
+https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWkMS4zTeRzmYn_xnSo78e2-bA_96SQJwVrExv2Vi3g&s" group-title="FIFA World Cup 2026",BEIN MAX 1 (BA) SD
 http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:C7:AF:ED&stream=2085178&extension=ts&play_token=3gjaCKsP6T
